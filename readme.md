@@ -1,6 +1,6 @@
 <h1>Modern JS - some basics</h1>
 
-**Language & Tools**
+**Languages & Tools**
 * HTML5
 * JavaScript
 * webpack
