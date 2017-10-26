@@ -1,4 +1,4 @@
-*Modern JS - some basics*
+**Modern JS - some basics**
 
 **Language & Tools**
 * HTML5
